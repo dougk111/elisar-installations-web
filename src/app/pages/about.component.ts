@@ -12,8 +12,10 @@ import { Component } from '@angular/core';
       </p>
       <div class="grid gap-6 md:grid-cols-3">
         <div class="rounded-xl border border-gray-100 bg-white p-5 shadow-sm">
-          <div class="text-3xl font-bold text-green-700">24/7</div>
-          <div class="mt-2 text-sm text-gray-600">Responsive scheduling for installs and removals.</div>
+          <div class="text-3xl font-bold text-green-700">Responsive Scheduling</div>
+          <div class="mt-2 text-sm text-gray-600">
+            Fast turnaround for installs and removals during business hours.
+          </div>
         </div>
         <div class="rounded-xl border border-gray-100 bg-white p-5 shadow-sm">
           <div class="text-3xl font-bold text-green-700">Detail</div>
