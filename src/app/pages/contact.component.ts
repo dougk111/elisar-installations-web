@@ -26,7 +26,7 @@ import { Component } from '@angular/core';
           <a href="mailto:contact@elisarinstallations.com" class="text-sm font-semibold text-green-700 hover:text-green-800">Email us ?</a>
         </div>
         <div class="text-xs text-gray-500">
-          <span class="font-semibold text-gray-700">Business Hours:</span> Mon–Thu, 9:00 AM–2:00 PM
+          <span class="font-semibold text-gray-700">Business Hours:</span> Mon-Thu, 9:00 AM-2:00 PM
         </div>
       </div>
     </section>
